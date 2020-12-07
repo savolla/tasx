@@ -1,0 +1,113 @@
+{
+  "monday": [
+    {
+      "time": "06:06",
+      "description": "Wake Up!",
+      "delay": 0,
+      "elements": []
+    },
+    {
+      "time": "07:07",
+      "description": "Work",
+      "delay": 0,
+      "elements": [
+        {
+          "description": "Software Engineering",
+          "elements": [
+            {
+              "description": "Books",
+              "elements": [
+                "Code Complete",
+                "Applying UML and Patterns",
+                "Clean Architecture",
+                "Dive into Design Patterns"
+              ]
+            }
+          ]
+        },
+        {
+          "description": "Programming Language",
+          "elements": [
+            {
+              "description": "Language",
+              "elements": [
+                "c",
+                "c++",
+                "java",
+                "rust",
+                "go",
+                "javascript"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Lanch!",
+      "time": "12:12",
+      "delay": 0,
+      "elements": [
+        {
+          "description": "Soup",
+          "elements": [
+            "A",
+            "C"
+          ]
+        },
+        {
+          "description": "Main Meal",
+          "elements": [
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        {
+          "description": "Salad",
+          "elements": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Work Out",
+      "time": "13:13",
+      "delay": 1,
+      "elements": [
+        {
+          "description": "Chest Day",
+          "elements": []
+        },
+        {
+          "description": "Leg Day",
+          "elements": []
+        },
+        {
+          "description": "Running Day",
+          "elements": []
+        }
+      ]
+    },
+    {
+      "description": "Flash Cards",
+      "time": "17:17",
+      "delay": 1,
+      "elements": [
+          "Regex Cards",
+          "Algorithms Cards",
+          "Data Structures Cards"
+      ]
+    }
+  ],
+  "tuesday": [],
+  "wednesday": [],
+  "thursday": [],
+  "friday": [],
+  "saturday": [],
+  "monday": []
+}
