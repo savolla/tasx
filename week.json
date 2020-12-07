@@ -4,12 +4,14 @@
       "time": "06:06",
       "description": "Wake Up!",
       "delay": 0,
+      "generated_item":"",
       "elements": []
     },
     {
       "time": "07:07",
       "description": "Work",
       "delay": 0,
+      "generated_item":"",
       "elements": [
         {
           "description": "Software Engineering",
@@ -47,6 +49,7 @@
       "description": "Lanch!",
       "time": "12:12",
       "delay": 0,
+      "generated_item":"",
       "elements": [
         {
           "description": "Soup",
@@ -78,6 +81,7 @@
       "description": "Work Out",
       "time": "13:13",
       "delay": 1,
+      "generated_item":"",
       "elements": [
         {
           "description": "Chest Day",
@@ -97,6 +101,7 @@
       "description": "Flash Cards",
       "time": "17:17",
       "delay": 1,
+      "generated_item":"",
       "elements": [
           "Regex Cards",
           "Algorithms Cards",
